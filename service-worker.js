@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Demmut.github.io/precache-manifest.2a788eccc89d5dbd79a4bb12832465e2.js"
+  "/Demmut.github.io/precache-manifest.f538ea1b2371652b1937f42af05d4062.js"
 );
 
 self.addEventListener('message', (event) => {
