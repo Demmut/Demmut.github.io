@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "777e666386f0c40a65f1b3b98f6baada",
+    "revision": "c52a16fb536df48f49905930eb252243",
     "url": "/Demmut.github.io/index.html"
   },
   {
-    "revision": "5833b00e33346171410d",
-    "url": "/Demmut.github.io/static/css/main.2f4abb19.chunk.css"
+    "revision": "b925b39edd9a2cef6c1c",
+    "url": "/Demmut.github.io/static/css/main.80170305.chunk.css"
   },
   {
     "revision": "cf94e99b32cfe533f4af",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Demmut.github.io/static/js/2.c647a899.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5833b00e33346171410d",
+    "revision": "b925b39edd9a2cef6c1c",
     "url": "/Demmut.github.io/static/js/main.369cf217.chunk.js"
   },
   {
