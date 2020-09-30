@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Demmut.github.io/static/css/main.d69f8659.chunk.css",
-    "main.js": "/Demmut.github.io/static/js/main.08aae70e.chunk.js",
-    "main.js.map": "/Demmut.github.io/static/js/main.08aae70e.chunk.js.map",
+    "main.css": "/Demmut.github.io/static/css/main.2f4abb19.chunk.css",
+    "main.js": "/Demmut.github.io/static/js/main.8ac3a56e.chunk.js",
+    "main.js.map": "/Demmut.github.io/static/js/main.8ac3a56e.chunk.js.map",
     "runtime-main.js": "/Demmut.github.io/static/js/runtime-main.013ae2a1.js",
     "runtime-main.js.map": "/Demmut.github.io/static/js/runtime-main.013ae2a1.js.map",
     "static/js/2.c647a899.chunk.js": "/Demmut.github.io/static/js/2.c647a899.chunk.js",
     "static/js/2.c647a899.chunk.js.map": "/Demmut.github.io/static/js/2.c647a899.chunk.js.map",
     "index.html": "/Demmut.github.io/index.html",
-    "precache-manifest.40a7126c6de367578b51873e5e647c2e.js": "/Demmut.github.io/precache-manifest.40a7126c6de367578b51873e5e647c2e.js",
+    "precache-manifest.79ad38856ac4da5757ef8838c940e02a.js": "/Demmut.github.io/precache-manifest.79ad38856ac4da5757ef8838c940e02a.js",
     "service-worker.js": "/Demmut.github.io/service-worker.js",
-    "static/css/main.d69f8659.chunk.css.map": "/Demmut.github.io/static/css/main.d69f8659.chunk.css.map",
+    "static/css/main.2f4abb19.chunk.css.map": "/Demmut.github.io/static/css/main.2f4abb19.chunk.css.map",
     "static/js/2.c647a899.chunk.js.LICENSE.txt": "/Demmut.github.io/static/js/2.c647a899.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Demmut.github.io/static/media/jap_waves.2d3925bf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.013ae2a1.js",
     "static/js/2.c647a899.chunk.js",
-    "static/css/main.d69f8659.chunk.css",
-    "static/js/main.08aae70e.chunk.js"
+    "static/css/main.2f4abb19.chunk.css",
+    "static/js/main.8ac3a56e.chunk.js"
   ]
 }
